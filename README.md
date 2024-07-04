@@ -20,5 +20,7 @@ Mentor:G.SRAVANI
 - We add an event listener to the search button to trigger the fetchWeatherData function when clicked.
 - In fetchWeatherData, we:
     - Get the API key (replace with your actual API key).
-    - Get the city name from the input field.
-"C:\Users\Bharath kumar\Pictures\Screenshots\Screenshot (3).png"
+    - Get the city name from the input field
+  ![Screenshot (3)](https://github.com/polankishirisha/CODTECH-Task2/assets/174591429/eda0980e-0cc0-4338-bdda-00c10f3d43f5)
+
+      
